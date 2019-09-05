@@ -1,0 +1,141 @@
+{
+  "shedinja": {
+    "sets": [{
+      "species": "Shedinja",
+      "item": "Focus Sash",
+      "ability": "Wonder Guard",
+      "evs": {"hp": 1, "atk": 1, "def": 1, "spa": 1, "spd": 1, "spe": 252},
+      "nature": "Hasty",
+      "moves": ["Metronome"]
+    }]
+  },
+  "arceus": {
+    "sets": [{
+      "species": "Arceus",
+      "item": "Quick Claw",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Draco Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Dread Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Earth Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Fist Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Flame Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Icicle Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Insect Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Iron Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Meadow Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Mind Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Pixie Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Splash Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Sky Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Spooky Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Stone Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Toxic Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    },{
+      "species": "Arceus",
+      "item": "Zap Plate",
+      "ability": "Multitype",
+      "evs": {"hp": 252, "atk": 252, "def": 252, "spa": 252, "spd": 252, "spe": 252},
+      "nature": "Hardy",
+      "moves": ["Metronome"]
+    }]
+  }
+}
