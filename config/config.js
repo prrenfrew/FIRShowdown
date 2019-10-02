@@ -5,7 +5,7 @@
  */
 exports.port = 8000;
 exports.serverid = 'firshowdown';
-exports.token = 'hXsAUzFFcrD6';
+exports.servertoken = 'hXsAUzFFcrD6';
 
 /**
  * The server address - the address at which Pokemon Showdown should be hosting
@@ -303,7 +303,7 @@ exports.backdoor = true;
  * the `console` permission in order to use the dev console.
  * Setting this to an empty array ([]) will disable the dev console.
  */
-exports.consoleips = ['127.0.0.1', 'RyanRenny', '73.54.179.249'];
+exports.consoleips = ['127.0.0.1', 'ryanrenny'];
 
 /**
  * Whether to watch the config file for changes. If this is enabled,
