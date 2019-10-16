@@ -8,7 +8,7 @@ let Formats = [
 	// US/UM Singles
 	//////////////////////////////////////////////////////////////////
 	{
-		section: "Single",
+		section: "Singles",
 	},
 	{
 		name: "[Gen 7] OU",
