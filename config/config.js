@@ -365,7 +365,8 @@ exports.autolockdown = true;
 exports.customavatars = {
 	// 'userid': 'customavatar.png'
   'firmono': 'firmonoavatar.png',
-  'ryanrenny': 'ryanrennyavatar.jpg'
+  'ryanrenny': 'ryanrennyavatar.jpg',
+  'rudyrudy': 'rudyrudyavatar.png'
 };
 
 /**
