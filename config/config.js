@@ -366,7 +366,8 @@ exports.customavatars = {
 	// 'userid': 'customavatar.png'
   'firmono': 'firmonoavatar.png',
   'ryanrenny': 'ryanrennyavatar.jpg',
-  'rudyrudy': 'rudyrudyavatar.png'
+  'rudyrudy': 'rudyrudyavatar.png',
+  'alphapat': 'alphapatavatar.png'
 };
 
 /**
