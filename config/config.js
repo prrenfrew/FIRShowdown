@@ -367,7 +367,8 @@ exports.customavatars = {
   'firmono': 'firmonoavatar.png',
   'ryanrenny': 'ryanrennyavatar.jpg',
   'rudyrudy': 'rudyrudyavatar.png',
-  'alphapat': 'alphapatavatar.png'
+  'alphapat': 'alphapatavatar.png',
+  'schwipper': 'schwipperavatar.png'
 };
 
 /**
